@@ -1,0 +1,27 @@
+{
+  "type": "jojo:crafting_shaped_stand",
+  "pattern": [
+    "n  ",
+    "fii",
+    "in "
+  ],
+  "key": {
+    "n": {
+      "tag": "forge:nuggets/iron"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "f": {
+      "item": "minecraft:flint_and_steel"
+    }
+  },
+  "stand": [
+    {
+      "name": "rotp_theworld:the_world"
+    }
+  ],
+  "result": {
+    "item": "rotp_theworld:revolver"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "jojo:crafting_shaped_stand",
+  "pattern": [
+    "nin",
+    "ini",
+    "nin"
+  ],
+  "key": {
+    "n": {
+      "tag": "forge:nuggets/iron"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "stand": [
+    {
+      "name": "rotp_theworld:the_world"
+    }
+  ],
+  "result": {
+    "item": "rotp_theworld:barbed_wire"
+  }
+}
