@@ -33,7 +33,6 @@ public class BarbedWireTileEntity extends TileEntity implements ITickableTileEnt
 
     @Override
     public void tick() {
-        // TODO AYAYAYAII
     }
     
     public void incAbsorbed() {
